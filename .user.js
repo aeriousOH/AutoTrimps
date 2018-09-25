@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         AutoTrimps-Zek
-// @version      1.0-Zek
-// @namespace    https://Zorn192.github.io/AutoTrimps
-// @updateURL    https://Zorn192.github.io/AutoTrimps/.user.js
+// @name         AutoTrimps-Aer
+// @version      .999a-Aer
+// @namespace    https://github.com/aeriousOH/AutoTrimps
+// @updateURL    https://github.com/aeriousOH/AutoTrimps/.user.js
 // @description  Automate all the trimps!
 // @author       zininzinin, spindrjr, Ishkaru, genBTC, Zeker0, Aerious
 // @include      *trimps.github.io*
